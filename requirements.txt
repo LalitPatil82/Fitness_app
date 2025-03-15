@@ -4,4 +4,4 @@ scikit-learn
 pandas
 numpy
 plotly
-sqlite3 
+
