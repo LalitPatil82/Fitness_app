@@ -1,0 +1,7 @@
+Python
+Streamlit
+Scikit-learn
+joblib
+pandas
+numpy
+plotly.express
