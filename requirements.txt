@@ -1,7 +1,5 @@
-Python
-Streamlit
-Scikit-learn
+streamlit
 joblib
+scikit-learn
 pandas
 numpy
-plotly.express
